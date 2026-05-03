@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Anik 👋
 
-<!--
-**Aniksaha3616/Aniksaha3616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building fast, responsive, and scalable web applications.
+⚛️ React • Next.js • TypeScript  
+🎯 UI Engineering • Performance • Clean Architecture  
 
-Here are some ideas to get you started:
+## 🧠 About Me:
+Frontend developer specializing in modern web applications using React and Next.js.  
+Focused on performance, reusable components, and clean UI design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently improving advanced frontend architecture and production-level development skills.
+
+🛠 Skills:
+- React, Next.js, TypeScript  
+- JavaScript (ES6+)  
+- Tailwind CSS, Responsive UI  
+- REST API Integration  
+- Git & GitHub, Vercel  
+
+🚀 Projects:
+- Dashboard App (Auth + API Integration)  
+- E-commerce UI (Cart + Product System)  
+- Portfolio Website (SEO + Responsive Design)  
+
+## 📫 Contact
+Email: your.email@example.com  
+LinkedIn: your-link  
+Portfolio: your-link  
