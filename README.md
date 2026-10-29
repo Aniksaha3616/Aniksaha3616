@@ -1,8 +1,7 @@
 # Hi, I'm Anik 👋
 
-Frontend Developer focused on building fast, responsive, and scalable web applications.
-⚛️ React • Next.js • TypeScript  
-🎯 UI Engineering • Performance • Clean Architecture  
+Full Stack Software Engineer · TypeScript · Next.js · Node.js
+I design and build modern web applications with a focus on clean architecture, reliable APIs, database design, and maintainable code. I'm also exploring practical AI integrations to build smarter, more useful software products.
 
 ## 🧠 About Me:
 Frontend developer specializing in modern web applications using React and Next.js.  
